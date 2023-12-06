@@ -1,6 +1,6 @@
 Name:		texlive-changelog
-Version:	56338
-Release:	2
+Version:	65861
+Release:	1
 Summary:	Provides a changelog environment
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/changelog
