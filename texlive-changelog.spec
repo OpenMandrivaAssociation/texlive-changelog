@@ -1,5 +1,5 @@
 Name:		texlive-changelog
-Version:	65861
+Version:	72305
 Release:	1
 Summary:	Provides a changelog environment
 Group:		Publishing
