@@ -3,7 +3,7 @@ Version:	72305
 Release:	1
 Summary:	Provides a changelog environment
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/changelog
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/changelog
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/changelog.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/changelog.doc.r%{version}.tar.xz
